@@ -2,17 +2,11 @@
 
 ## Introduction
 
-The Maze DUCKS game is a single player third person perspective puzzle game, where the primary objective of the player is to reach the end of the maze.
+Maze DUCKS is a single player maze puzzler game. Find your path to the end of a maze where the view distance is limited.
 
-The Maze itself and all playable elements are made using JAVA and it’s subsidiaries. 
-
-Machine Learning is used in order to create finer aspects of the game such as adaptive difficulty.
-
-The game can be played in various modes, each with different objectives and strategies.
-
-An SQL-based database is used to store the player’s information and their records.
-
-The fundamental objective of the Maze DUCKS game is to provide an entertaining experience that stimulates the player’s prefrontal cortex, to give one better problem solving skills and time based adaptiveness.
+- The maze is procedurally generated and the difficulty of the maze is determined using Machine Learning.
+- The game can be played in various modes, each with different objectives and strategies.
+- An SQL-based database is used to store the player’s information and their records.
 
 
 ## Code Details 
